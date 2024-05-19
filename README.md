@@ -1,3 +1,21 @@
+# TASK 1: 
+Create a web application to introduce and pre-order the new "TechTrek X" smartphone. Your application should include the following
+# Customer: E-commerce company "TechTrek-X" 
+# Additional requirements: 
+Displays the main characteristics and features of the "TechTrek X" smartphone.
+
+# Screenshots:
+![title2](https://github.com/atabaev1/secondProject/assets/105366009/76dec35d-6f9a-4cda-9221-1d998b14fa42)
+
+
+![order](https://github.com/atabaev1/secondProject/assets/105366009/815b3f3b-bc34-4fbc-9d4f-a5bd066963b8)
+
+
+![order](https://github.com/atabaev1/secondProject/assets/105366009/6e44ecc5-b6c1-4e51-939e-17ce1b2b185b)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
