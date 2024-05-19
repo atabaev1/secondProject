@@ -1,0 +1,39 @@
+
+.product-page {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .product-media {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .product-image, .product-video {
+    flex: 1;
+    width: 30%;
+    height: auto;
+    background: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .product-details {
+    font-size: 1.2rem;
+    line-height: 1.6;
+  }
+  
+  .product-details ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .product-details li {
+    
+    padding-left: 2rem;
+    margin-bottom: 1rem;
+  }
+  
